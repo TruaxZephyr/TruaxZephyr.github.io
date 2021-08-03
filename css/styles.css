@@ -7,7 +7,7 @@ h1 {
 }
 
 #main {
-    background-color:rgb(241, 198, 117);
+    background-color: lightgray;
     border-radius: 10px;
 }
 
@@ -18,7 +18,7 @@ h1 {
 }
 
 #img-div {
-    background-color:white;
+    background-color:darkgray;
     max-width: 100%;
     display:block;
     text-align: center;
